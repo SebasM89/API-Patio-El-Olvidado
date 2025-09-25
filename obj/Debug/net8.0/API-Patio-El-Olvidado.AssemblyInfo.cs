@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API-Patio-El-Olvidado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad83643cb9af140d9ee05efa8c92d74768520d65")]
 [assembly: System.Reflection.AssemblyProductAttribute("API-Patio-El-Olvidado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API-Patio-El-Olvidado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
