@@ -92,7 +92,8 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
-
+# Visual Studio Roslyn cache files
+*.dtbcache.v2
 # Visual Studio profiler
 *.psess
 *.vsp
